@@ -36,3 +36,5 @@ Single-criterion selection model with the expected value as a measure of cost (f
 ## Task 2
 Two-criterion cost and risk selection model with an average as a measure of cost and a standard deviation as a measure of risk
 (folder `zadanie_2`).
+
+Project was done as a part Decision Support under Risk Conditions Course at Warsaw University Technology.
